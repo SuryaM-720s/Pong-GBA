@@ -1,3 +1,11 @@
+/*
+    License for Butano:
+
+    Copyright (c) 2020-2022 Gustavo Valiente gustavo.valiente@protonmail.com
+    zlib License, see LICENSE file.
+*/
+
+// Butano libraries
 #include "bn_core.h"
 #include "bn_log.h"
 #include "bn_sram.h"
