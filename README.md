@@ -23,9 +23,6 @@ Here is a screenshot of the game running on the **mGBA** emulator:
 
 <img width="669" height="389" alt="pong_game_ss" src="https://github.com/user-attachments/assets/570b43c0-c917-40d3-aec4-e0772095ea54" />
 
-
-***Note:** Please replace `screenshot.png` with the actual image file in your repository, and update the filename in the markdown.*
-
 ---
 
 ## Technical Highlights & Learning Outcomes
